@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2024-03-14)
+
+
+### Bug Fixes
+
+* **datocms:** include position for custom sorting ([#778](https://github.com/gridsome/gridsome/tree/master/packages/source-datocms/issues/778)) ([e6795ba](https://github.com/gridsome/gridsome/tree/master/packages/source-datocms/commit/e6795baac829869f3d751222af5435be2b3ae597))
+
+
+### Features
+
+* **datocms:** add model.apiKey to nodes ([#369](https://github.com/gridsome/gridsome/tree/master/packages/source-datocms/issues/369)) ([2dd1d22](https://github.com/gridsome/gridsome/tree/master/packages/source-datocms/commit/2dd1d2215ac921c993b3b335c1ec42dc7aa86e55))
+* **datocms:** changes for gridsome v0.7 support ([f2c6377](https://github.com/gridsome/gridsome/tree/master/packages/source-datocms/commit/f2c63779d8b2f5b3028d6cd3ce0a9869a3375bf5))
+* **datocms:** upgrade datocms-client ([#1377](https://github.com/gridsome/gridsome/tree/master/packages/source-datocms/issues/1377)) ([be4c668](https://github.com/gridsome/gridsome/tree/master/packages/source-datocms/commit/be4c668bda9eda725f6c0f0e439169c650da46c7))
+
+
+
+
+
 # [0.3.0](https://github.com/gridsome/gridsome/tree/master/packages/source-datocms/compare/@gridsome/source-datocms@0.2.1...@gridsome/source-datocms@0.3.0) (2020-11-04)
 
 

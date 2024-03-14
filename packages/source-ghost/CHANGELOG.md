@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.5.0 (2024-03-14)
+
+
+### Bug Fixes
+
+* **ghost:** basic gridsome v0.7 support ([9378b31](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/commit/9378b31baea3cde8d72d48b682ea3b0bb25c98fa))
+* **ghost:** show baseUrl when loading data ([#958](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/issues/958)) ([ed4fb1a](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/commit/ed4fb1aaf08d38372976e1fe6bd69b157b18aa2a))
+
+
+### Features
+
+* **ghost:** add explicit graphql schema types ([#872](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/issues/872)) ([962990f](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/commit/962990f2367a5f7ea37615c07b6ca4411f5c5c2b))
+* **ghost:** initial ghost source ([#318](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/issues/318)) ([1e64dc6](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/commit/1e64dc6a620f7f0ef7c36f33e6f3d29d73592d5d))
+* **ghost:** reading_time field for posts ([#1090](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/issues/1090)) ([10b05b6](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/commit/10b05b61a16201b47995152a32ccb7cb49653f82))
+* **ghost:** remove deprecated options ([#687](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/issues/687)) ([d89d867](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/commit/d89d8673e17dc64141cf432c0a220ecdf24ac0b9))
+* **ghost:** tags and author references for pages ([#963](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/issues/963)) ([dcd5250](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/commit/dcd5250ee8e4ed2f7ec5220f4a03c1180920f9f3))
+* **ghost:** use api v3 by default ([d814bb5](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/commit/d814bb515e38a4234522448b03d532c5eab381c8))
+
+
+
+
+
 # [0.4.0](https://github.com/gridsome/gridsome/tree/master/packages/source-ghost/compare/@gridsome/source-ghost@0.3.1...@gridsome/source-ghost@0.4.0) (2020-04-18)
 
 

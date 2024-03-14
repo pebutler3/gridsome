@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.3.0 (2024-03-14)
+
+
+### Bug Fixes
+
+* **airtable:** add select option for queries ([#861](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/issues/861)) ([6e8ce58](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/commit/6e8ce58560d7e7ae1d2c4b18ef44b0946fe0bedf))
+* **airtable:** basic gridsome v0.7 support ([b583b95](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/commit/b583b957c94bd7aa3f74075e61a3f1bb06968d39))
+
+
+### Features
+
+* **airtable:** initial source plugin ([#458](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/issues/458)) ([39cb815](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/commit/39cb81596b6e28e1a38ae088c16e6633840976fa))
+* **airtable:** option for linked tables ([#1054](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/issues/1054)) ([e0b6656](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/commit/e0b665635f19b22fe6617cddc2b0c3122fc44d49))
+
+
+
+
+
 # [0.2.0](https://github.com/gridsome/gridsome/tree/master/packages/source-airtable/compare/@gridsome/source-airtable@0.1.4...@gridsome/source-airtable@0.2.0) (2020-05-26)
 
 

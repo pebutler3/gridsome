@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.7.0 (2024-03-14)
+
+
+### Bug Fixes
+
+* **contentful:** add resolvers with schema api ([55695c2](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/55695c27f79d5cdcf6974f5d1e17b2202a1c5f11))
+* **contentful:** prevent infinite loop for references ([#399](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/399)) ([5b0054b](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/5b0054b1b8800e0ccdcf0d7880edb71f1ab8c28a))
+* **contentful:** properly handle empty asset fields ([#866](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/866)) ([546f5d1](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/546f5d18f1c0c52c351e99921aa118e5830b9498))
+* **contentful:** remove default routes ([ac17eda](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/ac17eda20b6a0fef06b5a1b7202b868ef9faf592))
+* **contentful:** support location fields ([#132](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/132)) ([c394474](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/c394474ffb8b84ba4cb8e2da21b840745bbe393f)), closes [#129](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/129)
+* **router:** prefix default routes with slash ([cc6286a](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/cc6286ab001a90a8d3212f50415bd089bea5a4b5))
+* **souce-contentful:** define all types before creating nodes ([#15](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/15)) ([6d5a413](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/6d5a413901d6b00188b4416fef17f8222ab86e80)), closes [#14](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/14)
+* **source-contentful:** use correct refs ([7d827a5](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/7d827a5469787abdad1ce9b6275e957f6274516e))
+
+
+### Features
+
+* **contentful:** asset references ([#95](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/95)) ([f78d528](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/f78d528467a494a05852bfdec779c09c4dedfd71))
+* **contentful:** custom search parameters for entries ([#1331](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/1331)) ([d78703c](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/d78703c9cd99edfb0b5ea145d4e66257015a5f4f))
+* **contentful:** gridsome v0.7 support ([78ca5bf](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/78ca5bfde1225ff5d11a498cabe5bb57b55399df))
+* **contentful:** metadata for graphql nodes ([#1477](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/1477)) ([6359713](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/6359713db9336b723e33781c935557a248d4837f))
+* **contentful:** reflect changes in v0.6 ([e4962fe](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/e4962fe41cb51ef47e78407207f5d0053c3a2597))
+* **contentful:** rich text support ([#354](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/issues/354)) ([bd5905c](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/bd5905c57a9a0d389e93e4cf5513358b683a4e5c))
+* **contentful:** use new plugin api ([eaf6092](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/commit/eaf609269b3f8b9754e608e583c3b292c350a660))
+
+
+
+
+
 # [0.6.0](https://github.com/gridsome/gridsome/tree/master/packages/source-contentful/compare/@gridsome/source-contentful@0.5.3...@gridsome/source-contentful@0.6.0) (2020-09-18)
 
 
