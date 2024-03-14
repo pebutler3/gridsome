@@ -103,10 +103,10 @@
     "stylus-loader": "*"
   },
   "peerDependenciesMeta": {
-    "sass-loader": {
+    "less-loader": {
       "optional": true
     },
-    "less-loader": {
+    "sass-loader": {
       "optional": true
     },
     "stylus-loader": {
