@@ -1,6 +1,6 @@
 {
-  "version": "0.7.23",
-  "name": "gridsome",
+  "version": "0.0.1",
+  "name": "jelly",
   "description": "A JAMstack framework for building blazing fast websites with Vue.js",
   "homepage": "https://gridsome.org",
   "repository": "https://github.com/gridsome/gridsome",
